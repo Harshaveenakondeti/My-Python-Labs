@@ -1,5 +1,5 @@
 # My-Python-Labs
-My Python labs have my practice lab sessions or my practice code
+My Python labs have 
 
 How to write file in python.
 simple operations of type and bool.
